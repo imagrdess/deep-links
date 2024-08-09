@@ -1,0 +1,25 @@
+{
+    "applinks": {
+      "apps": [],
+      "details": [
+        {
+          "appIDs": [
+            "P88D46PBZN.com.imaginet.nuit-blanche"
+          ],
+          "paths": [
+            "*"
+          ],
+          "components": [
+            {
+              "/": "/*"
+            }
+          ]
+        }
+      ]
+    },
+    "webcredentials": {
+      "apps": [
+        "P88D46PBZN.com.imaginet.nuit-blanche"
+      ]
+    }
+  }

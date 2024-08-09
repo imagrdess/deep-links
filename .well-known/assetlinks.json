@@ -1,1 +1,9 @@
-
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "walking_tour",
+      "package_name": "com.Imaginet.nuit_blanche_wt",
+      "sha256_cert_fingerprints":
+      ["6D:87:E1:83:80:C9:B3:87:3E:A4:93:B6:12:E6:39:2C:7C:5A:80:04:9C:32:43:39:03:69:AB:6C:0D:2F:B0:B8"]
+    }
+  }]
